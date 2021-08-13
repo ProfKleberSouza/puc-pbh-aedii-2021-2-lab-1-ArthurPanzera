@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Teste 01",
+      "setup": "",
+      "run": "bash test.sh exe01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 02",
+      "setup": "",
+      "run": "bash test.sh exe02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 03",
+      "setup": "",
+      "run": "bash test.sh exe03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 04",
+      "setup": "",
+      "run": "bash test.sh exe04",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 05",
+      "setup": "",
+      "run": "bash test.sh exe05",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 06",
+      "setup": "",
+      "run": "bash test.sh exe06",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 07",
+      "setup": "",
+      "run": "bash test.sh exe07",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 08",
+      "setup": "",
+      "run": "bash test.sh exe08",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 09",
+      "setup": "",
+      "run": "bash test.sh exe09",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teste 10",
+      "setup": "",
+      "run": "bash test.sh exe10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
