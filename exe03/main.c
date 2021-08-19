@@ -4,7 +4,7 @@
 int main(){
   
   int v[1000];
-  int n;
+  int n,m;
   int maior = 0, menor = 0;
 
   scanf("%d", &n);
