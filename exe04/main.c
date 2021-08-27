@@ -3,8 +3,10 @@
 
 int main() {
 
-  char texto[] = "abecedario";
-  assert(6 == numero_vogais(texto));
+  char texto[1000];
+  fgets(texto, 1000, stdin);
+
+  numero_vogais(texto);
 
   return(0);
 }
