@@ -1,7 +1,19 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 
-#include "functions.h"
+char reverse(char string[])
+{
+   int length, i;
 
-int somar(int n1, int n2){
+   length = strlen(string);
 
-    return n1+n2;
+   char reverse_string[length];
+
+   for(i=0; i<length; i++)
+   {
+      reverse_string[i] = string[(length - i) - 1];
+   }
+
+   return reverse_string;
 }
